@@ -4,6 +4,8 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
+//some changes to the layout.js file
+
 const name = "Aryan Rajoria";
 export const siteTitle = "Next.js Sample Website";
 
